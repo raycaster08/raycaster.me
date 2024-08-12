@@ -17,12 +17,13 @@ export default function Hero() {
                     based in WuHan.
                 </div>
                 <p className="flex text-sm">
-                    I have held various roles, including development engineer
-                    and project leader, in several companies, gaining extensive
-                    work experience.
+                    Throughout my career, I have held various roles, including
+                    that of a development engineer and project leader, across
+                    multiple companies. This has allowed me to gain extensive
+                    work experience in the field.
                 </p>
                 <p className="flex text-sm">
-                    Currently working remotely, employed at
+                    Currently, I am working remotely for
                     <span className="contents text-sky-400">
                         &nbsp;semfoundry.com&nbsp;
                     </span>
